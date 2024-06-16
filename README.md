@@ -1,7 +1,5 @@
 # Global-urban-score-analysis-A-comparative-study-of-global-urban-cities
 
-# Global Urban Score Analysis
-
 ## Overview
 This project conducts a comprehensive analysis of global urban areas across multiple categories to identify top urban areas, make continental comparisons, and examine specific attributes. The analysis aims to provide data-driven insights and recommendations for urban development and investment.
 
