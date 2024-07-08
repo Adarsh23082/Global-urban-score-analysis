@@ -5,6 +5,7 @@ This project conducts a comprehensive analysis of global urban areas across mult
 
 ## Dataset Description
 - [Dataset](https://www.kaggle.com/datasets/orhankaramancode/city-quality-of-life-dataset/data)
+ 
 Teleport.org aggregates its data sources and computes scores for urban areas (Teleport Cities) across various different categories. This data set provides Teleport.org generated scores for housing, cost of living, startups, venture capital, travel connectivity, commute, business freedom, safety, healthcare, education, environmental quality, economy, taxation and internet access.  
 
 ## Data Manipulation
