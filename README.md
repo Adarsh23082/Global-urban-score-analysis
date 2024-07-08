@@ -4,7 +4,8 @@
 This project conducts a comprehensive analysis of global urban areas across multiple categories to identify top urban areas, make continental comparisons, and examine specific attributes. The analysis aims to provide data-driven insights and recommendations for urban development and investment.
 
 ## Dataset Description
-The dataset includes scores for various attributes of global urban areas, covering aspects such as housing, cost of living, startups, venture capital, travel connectivity, commute, business freedom, safety, healthcare, education, environmental quality, economy, taxation, internet access, leisure & culture, tolerance, and outdoor activities.
+- [Dataset](https://www.kaggle.com/datasets/orhankaramancode/city-quality-of-life-dataset/data)
+Teleport.org aggregates its data sources and computes scores for urban areas (Teleport Cities) across various different categories. This data set provides Teleport.org generated scores for housing, cost of living, startups, venture capital, travel connectivity, commute, business freedom, safety, healthcare, education, environmental quality, economy, taxation and internet access.  
 
 ## Data Manipulation
 - Addressed missing values and duplicates.
